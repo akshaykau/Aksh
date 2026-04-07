@@ -1,2 +1,2 @@
-# Aksh
-This repo is made for doing assignment.
+# My Project
+This repository contains the source code for My Project, a simple application to demonstrate GIT usage.
